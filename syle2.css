@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(135deg, #f172de 0%, #b166ea 100%);
+}
+
+.janela {
+    width: 800px;
+    height: 400px;
+    background-color: white;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+}
